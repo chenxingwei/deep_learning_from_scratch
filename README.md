@@ -8,6 +8,6 @@ This repository will using Python, not using machine learning or deep learning p
 
 ## Algorithm Index
 
-1. [Neuron]()
+1. [Neuron](https://github.com/chenxingwei/deep_learning_from_scratch/blob/master/algorithm/1.neurons.md)
 
 2. 
