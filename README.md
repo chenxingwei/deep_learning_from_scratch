@@ -8,6 +8,6 @@ This repository will using Python, not using machine learning or deep learning p
 
 ## Algorithm Index
 
-1. Basic concept (coming soon)
+1. [Neuron]()
 
 2. 
