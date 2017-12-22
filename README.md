@@ -10,4 +10,13 @@ This repository will using Python, not using machine learning or deep learning p
 
 1. [Neuron](https://github.com/chenxingwei/deep_learning_from_scratch/blob/master/algorithm/1.neurons.md)
 
-2. 
+    > Description: This is a brief introduction of neuron.
+
+2. [Neural networks with single neuron](https://github.com/chenxingwei/deep_learning_from_scratch/blob/master/algorithm/2.singleNeuron.md)
+
+    > Codes:
+
+3. [Neural networks with single layer](https://github.com/chenxingwei/deep_learning_from_scratch/blob/master/algorithm/3.singleLayer.md)
+
+    > Codes:
+
