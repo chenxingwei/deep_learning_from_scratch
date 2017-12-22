@@ -18,5 +18,5 @@ This repository will using Python, not using machine learning or deep learning p
 
 3. [Neural networks with single layer](https://github.com/chenxingwei/deep_learning_from_scratch/blob/master/algorithm/3.singleLayer.md)
 
-    > Codes:
+    > Codes:
 
